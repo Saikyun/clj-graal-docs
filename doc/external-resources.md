@@ -12,6 +12,7 @@
 - [cljfmt-graalvm](https://gitlab.com/konrad.mrozek/cljfmt-graalvm/). Clojure formatter using cljfmt built with GraalVM.
 - [cljstyle](https://github.com/greglook/cljstyle). A tool for formatting Clojure code
 - [cljtree-graalvm](https://github.com/borkdude/cljtree-graalvm). Tree version in Clojure built with GraalVM.
+- [clobits](https://github.com/Saikyun/clobits). Makes it easier to use C in Clojure, on JVM and native-image.
 - [clojurl](https://github.com/taylorwood/clojurl). An example Clojure CLI HTTP/S client using GraalVM native image.
 - [cotd](https://github.com/tomekw/cotd). Clojure docstring of the day.
 - [dad](https://github.com/liquidz/dad). Small configuration management tool for Clojure.
